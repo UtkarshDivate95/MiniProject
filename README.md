@@ -93,8 +93,8 @@ MiniProj/
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd MiniProj
+git clone https://github.com/UtkarshDivate95/MiniProject.git
+cd MiniProject
 ```
 
 #### 2️⃣ Backend Setup
